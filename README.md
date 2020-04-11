@@ -1,2 +1,3 @@
 # hello-world
 just learning how GitHub works...
+I don't think I'm really understanding how this talks to data science and R Studio, but I'm curious about it. I would like to see the Earth from space yet it quite scares me. 
